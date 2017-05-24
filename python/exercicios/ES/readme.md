@@ -3,18 +3,18 @@
 Lista retirado do [Python Brasil](https://wiki.python.org.br/EstruturaSequencial)
 ---
 
-1. Faça um Programa que mostre a mensagem **"Alo mundo"** na tela.
-2. Faça um Programa que peça um número e então mostre a mensagem _O número informado foi [número]_.
-3. Faça um Programa que peça dois números e imprima a soma.
-4. Faça um Programa que peça as 4 notas bimestrais e mostre a média.
-5. Faça um Programa que converta metros para centímetros.
-6. Faça um Programa que peça o raio de um círculo, calcule e mostre sua área.
-7. Faça um Programa que calcule a área de um quadrado, em seguida mostre o dobro desta área para o usuário.
-8. Faça um Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule e mostre o total do seu salário no referido mês.
-9. Faça um Programa que peça a temperatura em graus Farenheit, transforme e mostre a temperatura em graus Celsius.
+1. Faça um Programa que mostre a mensagem **"Alo mundo"** na tela. [:white_check_mark:](respostasES/1ES.py)
+2. Faça um Programa que peça um número e então mostre a mensagem _O número informado foi [número]_. [:white_check_mark:](respostasES/2ES.py)
+3. Faça um Programa que peça dois números e imprima a soma. [:white_check_mark:](respostasES/3ES.py)
+4. Faça um Programa que peça as 4 notas bimestrais e mostre a média. [:white_check_mark:](respostasES/4ES.py)
+5. Faça um Programa que converta metros para centímetros. [:white_check_mark:](respostasES/5ES.py)
+6. Faça um Programa que peça o raio de um círculo, calcule e mostre sua área. [:white_check_mark:](respostasES/6ES.py)
+7. Faça um Programa que calcule a área de um quadrado, em seguida mostre o dobro desta área para o usuário.  [:white_check_mark:](respostasES/7ES.py)
+8. Faça um Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule e mostre o total do seu salário no referido mês. [:white_check_mark:](respostasES/8ES.py)
+9. Faça um Programa que peça a temperatura em graus Farenheit, transforme e mostre a temperatura em graus Celsius.  [:white_check_mark:](respostasES/9ES.py)
 C = (5 * (F-32) / 9).
-10. Faça um Programa que peça a temperatura em graus Celsius, transforme e mostre em graus Farenheit.
-11. Faça um Programa que peça 2 números inteiros e um número real. Calcule e mostre:
+10. Faça um Programa que peça a temperatura em graus Celsius, transforme e mostre em graus Farenheit. [:white_check_mark:](respostasES/10ES.py)
+11. Faça um Programa que peça 2 números inteiros e um número real. Calcule e mostre: [:white_check_mark:](respostasES/11ES.py)
     * o produto do dobro do primeiro com metade do segundo .
     * a soma do triplo do primeiro com o terceiro.
     * o terceiro elevado ao cubo.
