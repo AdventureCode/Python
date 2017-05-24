@@ -2,13 +2,20 @@
 # -*- coding: utf-8 -*-
 
 tamanho = int(input("Informe a área em metros quadrados: "))
-litros = tamanho / 3
+litros = tamanho / 6
 
-if(tamanho % 54 == 0):
-	latas = tamanho / 54
+
+if(tamanho % 108 == 0):
+	litros_lata = tamanho / 108
+	litros_gal = litros / 3.6
 else:
-	latas = int(tamanho / 54) + 1
+	litros_lata = int(tamanho / 108) + 1
+	litros_gal = int(tamanho / 3.6) + 1
 
-preco = latas * 80
-print("%d Latas" %latas)
-print("R$ %.2f" %preco)
+precoLatas = litros_lata * 80
+precoGaloes = litros_gal * 25
+print("Quantidade de litros necessarios: %.2f" %litros)
+print("Total de latas: %.0f " %litros_lata)
+print("Total de galões: %.0f " %litros_gal)
+print("Preço das latas: R$%.2f " %precoLatas)
+print("Preço dos galões: R$%.2f " %precoGaloes)
