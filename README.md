@@ -1,6 +1,6 @@
 # Python
 
-![python_map](images/pymap.png)
+![python_map](python/images/pymap.png)
 
 # Sites
 [Python Brasil](https://wiki.python.org.br/PythonBrasil)
