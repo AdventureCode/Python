@@ -8,7 +8,7 @@
 ## Exercicios
 Exercicios resolvidos das listas do site [Python Brasil](https://wiki.python.org.br/ListaDeExercicios).
 
-* [Estrutura Sequencial](python/exercicios/ES)
+* [Estrutura Sequencial](python/exercicios/ES) [:white_check_mark:](python/exercicios/ES)
 * [Estrutura de Decisao](python/exercicios/ED)
 * [Estrutura de Repeticao](python/exercicios/ER)
 * [Exercicios Listas](python/exercicios/EL)
