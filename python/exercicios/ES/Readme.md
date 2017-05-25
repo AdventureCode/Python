@@ -1,6 +1,6 @@
 # Estrutura Sequencial
 
-Lista retirado do [Python Brasil](https://wiki.python.org.br/EstruturaSequencial)
+Lista retirada do [Python Brasil](https://wiki.python.org.br/EstruturaSequencial)
 ---
 
 1. Faça um Programa que mostre a mensagem **"Alo mundo"** na tela. [:white_check_mark:](respostasES/1ES.py)
