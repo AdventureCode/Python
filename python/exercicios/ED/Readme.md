@@ -25,12 +25,14 @@
     * o percentual de aumento aplicado;
     * o valor do aumento;
     * o novo salário, após o aumento.
-12. Faça um programa para o cálculo de uma folha de pagamento, sabendo que os descontos são do Imposto de Renda, que depende do salário bruto (conforme tabela abaixo) e 3% para o Sindicato e que o FGTS corresponde a 11% do Salário Bruto, mas não é descontado (é a empresa que deposita). O Salário Líquido corresponde ao Salário Bruto menos os descontos. O programa deverá pedir ao usuário o valor da sua hora e a quantidade de horas trabalhadas no mês.
+12. Faça um programa para o cálculo de uma folha de pagamento, sabendo que os descontos são do Imposto de Renda, que depende do salário bruto (conforme tabela abaixo) e 3% para o Sindicato e que o FGTS corresponde a 11% do Salário Bruto, mas não é descontado (é a empresa que deposita). O Salário Líquido corresponde ao Salário Bruto menos os descontos. O programa deverá pedir ao usuário o valor da sua hora e a quantidade de horas trabalhadas no mês. [:white_check_mark:](respostasED/11ED.py)
     * Desconto do IR:
     * Salário Bruto até 900 (inclusive) - isento
     * Salário Bruto até 1500 (inclusive) - desconto de 5%
     * Salário Bruto até 2500 (inclusive) - desconto de 10%
-    * Salário Bruto acima de 2500 - desconto de 20% Imprima na tela as informações, dispostas conforme o exemplo abaixo. No exemplo o valor da hora é 5 e a quantidade de hora é 220.
+    * Salário Bruto acima de 2500 - desconto de 20%
+
+    Imprima na tela as informações, dispostas conforme o exemplo abaixo. No exemplo o valor da hora é 5 e a quantidade de hora é 220.
 
 ```
 Salário Bruto: (5 * 220)        : R$ 1100,00
@@ -41,9 +43,9 @@ Total de descontos              : R$  165,00
 Salário Liquido                 : R$  935,00
 ```
 
-13. Faça um Programa que leia um número e exiba o dia correspondente da semana. (1-Domingo, 2- Segunda, etc.), se digitar outro valor deve aparecer valor inválido.
+13. Faça um Programa que leia um número e exiba o dia correspondente da semana. (1-Domingo, 2- Segunda, etc.), se digitar outro valor deve aparecer valor inválido. [:white_check_mark:](respostasED/11ED.py)
 
-14. Faça um programa que lê as duas notas parciais obtidas por um aluno numa disciplina ao longo de um semestre, e calcule a sua média. A atribuição de conceitos obedece à tabela abaixo:
+14. Faça um programa que lê as duas notas parciais obtidas por um aluno numa disciplina ao longo de um semestre, e calcule a sua média. A atribuição de conceitos obedece à tabela abaixo: [:white_check_mark:](respostasED/11ED.py)
 
  Média de Aproveitamento |Conceito
  ------------------------|---------
