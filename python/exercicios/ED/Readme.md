@@ -25,7 +25,7 @@
     * o percentual de aumento aplicado;
     * o valor do aumento;
     * o novo salário, após o aumento.
-12. Faça um programa para o cálculo de uma folha de pagamento, sabendo que os descontos são do Imposto de Renda, que depende do salário bruto (conforme tabela abaixo) e 3% para o Sindicato e que o FGTS corresponde a 11% do Salário Bruto, mas não é descontado (é a empresa que deposita). O Salário Líquido corresponde ao Salário Bruto menos os descontos. O programa deverá pedir ao usuário o valor da sua hora e a quantidade de horas trabalhadas no mês. [:white_check_mark:](respostasED/11ED.py)
+12. Faça um programa para o cálculo de uma folha de pagamento, sabendo que os descontos são do Imposto de Renda, que depende do salário bruto (conforme tabela abaixo) e 3% para o Sindicato e que o FGTS corresponde a 11% do Salário Bruto, mas não é descontado (é a empresa que deposita). O Salário Líquido corresponde ao Salário Bruto menos os descontos. O programa deverá pedir ao usuário o valor da sua hora e a quantidade de horas trabalhadas no mês. [:white_check_mark:](respostasED/12ED.py)
     * Desconto do IR:
     * Salário Bruto até 900 (inclusive) - isento
     * Salário Bruto até 1500 (inclusive) - desconto de 5%
@@ -43,9 +43,9 @@ Total de descontos              : R$  165,00
 Salário Liquido                 : R$  935,00
 ```
 
-13. Faça um Programa que leia um número e exiba o dia correspondente da semana. (1-Domingo, 2- Segunda, etc.), se digitar outro valor deve aparecer valor inválido. [:white_check_mark:](respostasED/11ED.py)
+13. Faça um Programa que leia um número e exiba o dia correspondente da semana. (1-Domingo, 2- Segunda, etc.), se digitar outro valor deve aparecer valor inválido. [:white_check_mark:](respostasED/13ED.py)
 
-14. Faça um programa que lê as duas notas parciais obtidas por um aluno numa disciplina ao longo de um semestre, e calcule a sua média. A atribuição de conceitos obedece à tabela abaixo: [:white_check_mark:](respostasED/11ED.py)
+14. Faça um programa que lê as duas notas parciais obtidas por um aluno numa disciplina ao longo de um semestre, e calcule a sua média. A atribuição de conceitos obedece à tabela abaixo: [:white_check_mark:](respostasED/14ED.py)
 
  Média de Aproveitamento |Conceito
  ------------------------|---------
