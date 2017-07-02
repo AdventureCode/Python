@@ -26,8 +26,9 @@
 
 [Introdução à ciência da computação com Python](https://www.youtube.com/watch?v=WT_zCgSHSTQ&list=PLcoJJSvnDgcKpOi_UeneTNTIVOigRQwcn "CCSL do IME/USP")
 
-[Learn Python for Data Science](https://www.youtube.com/watch?v=T5pRlIbr6gg&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU "Siraj Raval
-")
+[Learn Python for Data Science](https://www.youtube.com/watch?v=T5pRlIbr6gg&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU "Siraj Raval")
+
+[Learn Python Programming with Socratica (Computer Science)](https://www.youtube.com/watch?v=bY6m6_IIN94&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er- "Socratica")
 
 [sentdex - Python](https://www.youtube.com/user/sentdex/playlists "sentdex")
 
